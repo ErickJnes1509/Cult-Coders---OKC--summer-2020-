@@ -1,0 +1,22 @@
+/* Universal selecotor*/
+
+^{
+padding:0;
+Margin: 0:
+}
+
+/*Type Selector*/
+
+body {
+    background-color: magenta;
+}
+
+/*ID selector*/ /^ Uses the pound sign - */
+#topHeader{
+    color:white:
+}
+
+/*Class Selector*/ /^ Uses the dot symbol -.*/
+.topPara {
+    color:Yellow;
+}
